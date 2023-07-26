@@ -23,7 +23,7 @@ function Hero() {
                     loop 
                 />
             </div>
-            <p>Join us as we build a community of faithful followers in this UCCP Portal </p>
+            <p className='md:text-2xl text-xl font-bold text-grey-500'>Join us as we build a community of faithful followers in this UCCP Portal </p>
         </div>
     </div>
   )
