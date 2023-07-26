@@ -1,5 +1,5 @@
-import React from 'react'
-import typed from 'react-typed'
+import React from 'react';
+import Typed from 'react-typed'
 
 function Hero() {
   return (
@@ -17,13 +17,13 @@ function Hero() {
                 </p>
                 <Typed
                 className='md:text-7xl sm:text-4xl text-xl font-bold pl-2' 
-                    strings={['BTB', 'BTC', 'SASS']} //'Fellowship', 'Friendship', 'and Worship'
+                    strings={['Fellowship', 'Friendship', 'and Worship']} 
                     typeSpeed={120} 
                     backSpeed={140} 
                     loop 
                 />
             </div>
-            //*<p>in</p>
+            <p>Join us as we build a community of faithful followers in this UCCP Portal </p>
         </div>
     </div>
   )
