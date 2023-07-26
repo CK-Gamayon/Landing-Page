@@ -24,6 +24,7 @@ function Hero() {
                 />
             </div>
             <p className='md:text-2xl text-xl font-bold text-grey-500'>Join us as we build a community of faithful followers in this UCCP Portal </p>
+            <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Register Now</button>
         </div>
     </div>
   )
